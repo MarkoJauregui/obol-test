@@ -25,7 +25,7 @@ After applying the optimizations, the contract showed significant improvements i
 
 - **Deployment Cost**: 256,371 gas (a reduction of 61,261 gas from the initial version)
 - **Deployment Size**: 1,048 bytes (a reduction of 306 bytes from the initial version)
-- **`distribute` Function Gas Cost**: 71,719 gas (an increase of 193 gas from the initial version, likely due to the inline assembly use)
+- **`distribute` Function Gas Cost**: 71,719 gas (an increase of 193 gas from the initial version, likely due to the inline assembly use, but still reduced overall gas cost)
 
 ## Conclusion
 
